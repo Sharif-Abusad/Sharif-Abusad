@@ -15,6 +15,8 @@ Building production-ready AI applications using Machine Learning, Deep Learning,
 # 🚀 About Me
 
 - 🤖 AI/ML Engineer passionate about solving real-world problems with AI
+- 🎓 Completed BCA from Shibli National College, Azamgarh (Batch 2023-2026) with CGPA of 8.8
+- 🏫 Currently persuing MCA (Online) from Lovely Professiional University (With specialization in AI/ML)
 - 🧠 Building intelligent systems using LLMs, RAG, and Agentic AI
 - ⚡ Experienced with FastAPI, LangChain, LangGraph, TensorFlow, and Scikit-learn
 - 📚 Currently learning MLOps, Docker, AWS, and scalable AI deployment
@@ -277,7 +279,7 @@ Semantic similarity classifier that predicts whether two questions are duplicate
 
 ---
 
-# 🤝 Connect With Me
+# 📞 Connect With Me
 
 <p align="center">
 
@@ -304,17 +306,3 @@ Semantic similarity classifier that predicts whether two questions are duplicate
 *"Building intelligent AI systems that solve real-world problems."*
 
 </div>
-<!--
-**Sharif-Abusad/Sharif-Abusad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
