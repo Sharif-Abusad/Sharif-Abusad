@@ -149,7 +149,7 @@ AI Meeting Assistant that transforms meetings, YouTube videos, and audio recordi
 
 ## 📝 AI Blog Writing Agent
 
-[📂 Source Code](https://github.com/Sharif-Abusad/docmind-rag-chatbot)          • [🚀 Live Demo](https://docmind-web.streamlit.app/)
+[📂 Source Code](https://github.com/Sharif-Abusad/blog-writing-agent.git) 
 
 Autonomous AI agent that researches topics, creates outlines, writes complete blogs, and performs iterative self-review before generating publication-ready Markdown.
 
